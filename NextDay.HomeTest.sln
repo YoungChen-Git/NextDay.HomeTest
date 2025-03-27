@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextDay.HomeTest", "NextDay.HomeTest\NextDay.HomeTest.csproj", "{726D91C0-F5D7-49E1-A493-F05C4488A928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{726D91C0-F5D7-49E1-A493-F05C4488A928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726D91C0-F5D7-49E1-A493-F05C4488A928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726D91C0-F5D7-49E1-A493-F05C4488A928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726D91C0-F5D7-49E1-A493-F05C4488A928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
